@@ -1,1 +1,1 @@
-# Web page: mladenlazovic.github.io/todo-list
+# Web page: http://mladenlazovic.github.io/todo-list
